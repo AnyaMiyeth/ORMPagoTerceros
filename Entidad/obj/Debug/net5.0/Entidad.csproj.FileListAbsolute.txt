@@ -1,0 +1,12 @@
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\bin\Debug\net5.0\Entidad.deps.json
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\bin\Debug\net5.0\Entidad.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\bin\Debug\net5.0\Entidad.pdb
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\obj\Debug\net5.0\Entidad.csprojAssemblyReference.cache
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\obj\Debug\net5.0\Entidad.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Entidad\obj\Debug\net5.0\Entidad.pdb

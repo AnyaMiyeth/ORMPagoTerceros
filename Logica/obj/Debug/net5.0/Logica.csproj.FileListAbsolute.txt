@@ -1,0 +1,17 @@
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\bin\Debug\net5.0\Logica.deps.json
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\bin\Debug\net5.0\Logica.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\bin\Debug\net5.0\ref\Logica.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\bin\Debug\net5.0\Logica.pdb
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\bin\Debug\net5.0\Datos.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\bin\Debug\net5.0\Entidad.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\bin\Debug\net5.0\Entidad.pdb
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\bin\Debug\net5.0\Datos.pdb
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\obj\Debug\net5.0\Logica.csprojAssemblyReference.cache
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\obj\Debug\net5.0\Logica.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\obj\Debug\net5.0\ref\Logica.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Logica\obj\Debug\net5.0\Logica.pdb

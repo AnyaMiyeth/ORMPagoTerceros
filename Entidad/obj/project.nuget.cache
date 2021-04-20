@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bpm+wENds5n3rCwSeAJW0g31YNrVGa482AZSRQk/X5Yi6H2/a/RAGoYcOYr2zAak1vhmBvVQEYBtG7kAE6cMPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\ProyectosUPC\\ProgramacionWeb\\2021-I\\Pagos\\Entidad\\Entidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

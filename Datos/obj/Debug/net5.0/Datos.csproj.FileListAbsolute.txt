@@ -1,0 +1,15 @@
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\bin\Debug\net5.0\Datos.deps.json
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\bin\Debug\net5.0\Datos.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\bin\Debug\net5.0\ref\Datos.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\bin\Debug\net5.0\Datos.pdb
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\bin\Debug\net5.0\Entidad.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\bin\Debug\net5.0\Entidad.pdb
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\obj\Debug\net5.0\Datos.csprojAssemblyReference.cache
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\obj\Debug\net5.0\Datos.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\obj\Debug\net5.0\ref\Datos.dll
+c:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-I\Pagos\Datos\obj\Debug\net5.0\Datos.pdb
